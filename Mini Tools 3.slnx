@@ -1,7 +1,0 @@
-<Solution>
-  <Folder Name="/Элементы решения/">
-    <File Path="SupportForm.cs" />
-    <File Path="SupportForms.Designer.cs" />
-  </Folder>
-  <Project Path="Mini Tools 3.csproj" Id="daac8f66-2e80-4d33-b4fb-a6f38c0578de" />
-</Solution>
